@@ -4,9 +4,9 @@ The data used is from: https://www.kaggle.com/fanconic/skin-cancer-malignant-vs-
 The data was split into training, validation and testing. 
 The folder data showcases how the data was organized.
 
-train had 1080  benign images, and 897 malignant images.
-val had 360 benign images, and 300 malignant images.
-test had 360 benign images, and 300 malignant images.
+Train had 1080  benign images, and 897 malignant images.
+Val had 360 benign images, and 300 malignant images.
+Test had 360 benign images, and 300 malignant images.
 
 The code has been implemented following this pytorch documentation: https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html
 
