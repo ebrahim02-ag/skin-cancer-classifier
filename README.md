@@ -2,7 +2,6 @@ Skin cancer classifier (benign or malignant) trained with pytorch using the pret
 
 The data used is from: https://www.kaggle.com/fanconic/skin-cancer-malignant-vs-benign
 The data was split into training, validation and testing. 
-The folder data showcases how the data was organized.
 
 Train had 1080  benign images, and 897 malignant images.
 Val had 360 benign images, and 300 malignant images.
